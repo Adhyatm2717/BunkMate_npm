@@ -1,0 +1,30 @@
+{
+  "name": "bunkmate",
+  "version": "1.0.0",
+  "description": "BunkMate attendance calculation utilities",
+  "keywords": [
+    "attendance",
+    "bunkmate",
+    "college",
+    "student",
+    "bunk"
+  ],
+  "homepage": "https://github.com/Adhyatm2717/BunkMate_npm#readme",
+  "bugs": {
+    "url": "https://github.com/Adhyatm2717/BunkMate_npm/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adhyatm2717/BunkMate_npm.git"
+  },
+  "license": "ISC",
+  "author": "Adhyatm Mudgal",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bunkmate": "^1.0.0"
+  }
+}
